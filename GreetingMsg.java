@@ -7,6 +7,6 @@ public class GreetingMsg {
         System.out.print("Enter your name: ");
         name = input.next();
 
-        System.out.println("Hello " + name + ", I'm lucky to call you a friend. Thanks for all of your support.");
+        System.out.println("Hello " + name + ", I'm lucky to call you a friend <3. Thanks for all of your support.");
     }
 }
